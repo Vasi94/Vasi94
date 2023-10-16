@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vasi94
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Web Development - Backend
+- 🌱 I’m currently learning Web Development - Frontend
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me via Linkedin:  linkedin.com/in/vasileios-papanikolaou
 
