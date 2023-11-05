@@ -1,0 +1,36 @@
+
+
+header {
+    background-color: white;
+    border-bottom: 1px solid grey; /* 1px width border */
+    box-shadow: 0 2px 4px hwb(0 100% 0%) (146, 143, 143, 0.1); /* Add shadow to the border */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    color: white;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+    color: gray;
+}
+nav ul {
+  display: flex;
+  list-style: none;
+  padding: 0;
+}
+nav ul li {
+    margin-right: 20px;
+}
+
+nav li:last-child {
+    margin-right: 0;
+  }
+nav ul li a {
+    color: grey;
+}
+nav ul li a:hover {
+    color: none;
+}
